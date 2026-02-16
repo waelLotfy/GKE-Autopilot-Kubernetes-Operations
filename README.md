@@ -96,7 +96,6 @@ Autopilot mode abstracts node management and applies production‑ready best pra
 - How kubectl communicates with the Kubernetes control plane
 - Understanding Pods, Deployments, and Services in practice
 - Kubernetes scheduling, autoscaling, and resource management
-- Debugging and introspecting live Pods
 - Working with Kubernetes YAML manifests
 
 ---
