@@ -90,6 +90,17 @@ Autopilot mode abstracts node management and applies production‑ready best pra
 
 ---
 
+### 6️⃣ Pod Introspection and Debugging
+
+- Deployed a Pod using a YAML manifest
+- Connected to a running container using: kubectl exec -it
+- Installed tools inside the container for troubleshooting
+- Modified container content at runtime
+- Used port forwarding to access the Pod locally
+- Viewed and streamed Pod logs with timestamps
+
+---
+
 ## 🧠 Key Learnings
 
 - How GKE Autopilot simplifies Kubernetes infrastructure management
